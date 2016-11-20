@@ -1,0 +1,8 @@
+{
+  "Cars": "CARS=ac_legends_bmw_csl;ac_legends_corvette69;ac_legends_ferrari_365gtb;ac_legends_capri_rs3100;ac_legends_nissan_gtr_2000;ac_legends_911rsr_74;ac_legends_shelby_daytona",
+  "MaxBallast": "MAX_BALLAST_KG=150",
+  "RacePos": 100,
+  "BestLap": 5,
+  "LapCount": 5,
+  "CP": 5,
+}
